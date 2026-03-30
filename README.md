@@ -1,3 +1,3 @@
 # zenviior
-This is my first Git Repository
+This is my first Git Repository.
 Author - Hasnain Mughal
